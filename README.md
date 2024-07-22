@@ -1,10 +1,3 @@
-Discover the power of keyword synergy with the DuckDuckGo Keyword Synergy Checker! This tool allows you to search for a phrase on DuckDuckGo and analyze the most frequent words, bigrams, and trigrams from the top search results. Perfect for SEO enthusiasts and content creators looking to optimize their keyword usage.
+The Link Checker is a handy tool that checks a list of URLs for chain redirects and HTTP errors (404 and 500). This tool is perfect for web developers, SEO specialists, and content managers who need to maintain the health of their websites by ensuring all links are functional and free from redirects or errors.
 
-Live Demo
-Check out the live demo here: https://seo-link-checker.glitch.me/
-
-Features
-Search for a phrase on DuckDuckGo.
-Analyze the most frequent words, bigrams, and trigrams from the top search results.
-Specify the minimum number of sites a keyword must appear on to be included in the results.
-Get detailed insights to enhance your content strategy.
+Live Demo Here: https://seo-link-checker.glitch.me/
